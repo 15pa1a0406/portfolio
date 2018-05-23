@@ -2,7 +2,7 @@ Description:-
 My portfolio project is about TOP CRICKET PLAYERS.
 
 Review:-
-In my portfolio site I use css,html and javascript languages.
+In my portfolio site I use css,html languages.
 
 Specs:-
 At the end of the lesson, will have a portfolio page added to their website. The portfolio page will list all of the projects we'll complete in our studies, and help begin a decent resume of your coding skills! In this lesson, we also delve a bit deeper into Cascading Style Sheets (CSS) and hyperlinks.
