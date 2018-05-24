@@ -7,7 +7,7 @@ body {
     background-color: #f1f1f1;
     padding: 30px;
     font-family: Arial;
-}
+    }
 
 
 .main {
@@ -19,12 +19,14 @@ h1 {
     font-size: 50px;
     word-break: break-all;
 }
-img{
+img {
 height:250px;
 }
 #er{width:100%
 }
 .row {
+    display:flex;
+    flex-wrap:wrap;
     margin: 8px -16px;
 }
 
@@ -34,7 +36,7 @@ height:250px;
 }
 
 .column {
-    float: left;
+    
     width: 25%;
 }
 
